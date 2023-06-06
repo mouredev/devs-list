@@ -40,6 +40,7 @@
 | Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Website/Blog                                      |
 | -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------------------------------------------------- |
 | Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        | [![web]](https://hdeleon.net/)                    |
+| Netmentor | [![twitter]](https://twitter.com/NetMentorTW) | [![youtube]](https://www.youtube.com/c/netmentor) |        |          | [![github]](https://github.com/ElectNewt)        | [![web]](https://www.netmentor.es/)                    |
 
 # Desarrollo Web/Front End (General) <a name="frontend"></a>
 
